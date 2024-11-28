@@ -1,4 +1,4 @@
-# Các Khái Niệm Cơ Bản
+# Chương 1: Các Khái Niệm Cơ Bản
 
 ## 1. Giới Thiệu Về Máy Tính
 
@@ -41,7 +41,7 @@
 | **Nguồn điện (PSU)**| Cung cấp điện năng cho các thành phần của máy tính.                  |
 | **Thiết bị ngoại vi**| Bàn phím, chuột, màn hình, máy in, scanner.                          |
 
-# Biểu Diễn Thông Tin Và Hệ Thống Số
+# Chương 2: Biểu Diễn Thông Tin Và Hệ Thống Số
 
 | Khái niệm           | Mô tả                                                                 |
 |---------------------|-----------------------------------------------------------------------|
@@ -57,6 +57,8 @@
 | **Phép cộng**       | Cộng hai số nguyên có dấu: Nếu cùng dấu, cộng giá trị tuyệt đối; nếu khác dấu, trừ giá trị nhỏ từ giá trị lớn. |
 | **Phép trừ**        | Trừ hai số nguyên có dấu bằng cách cộng với số đối của số bị trừ. |
 
+# Chương 3: Kỹ năng sử dụng máy tính và công cụ
+
 ## Khái Niệm Tập Tin và Thư Mục
 
 | Khái niệm           | Mô tả                                                                 |
@@ -68,7 +70,7 @@
 
 ---
 
-# Hệ Điều Hành Linux Và Các Lệnh Cơ Bản
+# Chương 4: Hệ Điều Hành Linux Và Các Lệnh Cơ Bản
 
 | Lệnh                  | Mô tả                                                      |
 |-----------------------|------------------------------------------------------------|
@@ -83,7 +85,7 @@
 
 ---
 
-# Git và Ứng Dụng
+# Chương 5: Git và Ứng Dụng
 
 ## 1. Kiểm Soát Phiên Bản - Các Vấn Đề
 
@@ -112,7 +114,7 @@
 | **Hợp tác**            | Dễ dàng mời người khác làm việc và theo dõi vấn đề.        |
 | **Tài liệu**          | Cung cấp khả năng tạo tài liệu trực tuyến qua GitHub Pages. |
 
-# Mạng máy tính, ATTT, đạo đức máy tính
+# Chương 6: Mạng máy tính, ATTT, đạo đức máy tính
 
 ## An toàn trên không gian số
 
@@ -155,7 +157,7 @@
 |                                         | - **Hỗ trợ công bằng trong công việc:** Các chuyên gia máy tính cần tránh phân biệt đối xử trong công việc, giúp đỡ và tạo cơ hội công bằng cho tất cả mọi người.                         |
 |                                         | - **Đảm bảo bảo mật thông tin:** Chuyên gia cần có trách nhiệm trong việc bảo vệ thông tin nhạy cảm và dữ liệu cá nhân của người sử dụng, đảm bảo không bị lộ lọt hoặc lạm dụng.        |
 
-# Wordpress / Google Site và ứng dụng
+# Chương 7, 8: Wordpress / Google Site và ứng dụng
 
 ## WordPress - Giới thiệu tổng quan
 
@@ -215,7 +217,7 @@ WordPress là một công cụ tuyệt vời cho người dùng muốn xây dự
 | **Comments (Bình luận)** | Quản lý các bình luận mà người dùng để lại trên bài viết hoặc trang. Có thể duyệt và phê duyệt bình luận từ người dùng.                   |
 | **Tools (Công cụ)**    | Cung cấp các công cụ quản lý dữ liệu, nhập khẩu và xuất khẩu nội dung, sao lưu dữ liệu và các tiện ích khác.                           |
 
-# Khái niệm về thuật toán và chương trình
+# Chương 9: Khái niệm về thuật toán và chương trình
 
 # Khái Niệm Thuật Toán và Đặc Trưng
 
@@ -247,7 +249,7 @@ WordPress là một công cụ tuyệt vời cho người dùng muốn xây dự
 |                                    | - **Quay lui (Backtracking)**: Thử các giải pháp có thể có và quay lại khi gặp sai lầm để tìm ra giải pháp chính xác.                                               |
 |                                    | - **Phương pháp duyệt (Search methods)**: Duyệt qua các lựa chọn để tìm kiếm hoặc tìm đường đi, ví dụ như thuật toán tìm kiếm nhị phân.                           |
 
-# Python
+# Chương 10, 11, 12: Python
 
 ## Mở Đầu
 
@@ -336,7 +338,7 @@ WordPress là một công cụ tuyệt vời cho người dùng muốn xây dự
 | **Vòng Lặp while**           | Lặp khi điều kiện là đúng.                                                                              |
 | **Ví Dụ**                    | ```python<br>while x > 0:<br>    print(x)<br>    x -= 1<br>``` - Lặp cho đến khi x bằng 0                 |
 
-# Chuyển đổi số và xu hướng; đổi mới sáng tạo
+# Chương 14: Chuyển đổi số và xu hướng; đổi mới sáng tạo
 
 ## Phần 1: Giới Thiệu Về Chuyển Đổi Số (CĐS)
 
