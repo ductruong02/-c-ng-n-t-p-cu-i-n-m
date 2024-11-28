@@ -111,3 +111,25 @@
 | **Lưu trữ mã nguồn**  | Cung cấp không gian lưu trữ cho các kho Git.               |
 | **Hợp tác**            | Dễ dàng mời người khác làm việc và theo dõi vấn đề.        |
 | **Tài liệu**          | Cung cấp khả năng tạo tài liệu trực tuyến qua GitHub Pages. |
+
+# Mạng máy tính, ATTT, đạo đức máy tính
+
+## An toàn trên không gian số
+
+| **Thách Thức**                              | **Mô Tả**                                                                                                                                                                        |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **An Ninh Mạng (Cybersecurity)**           | An ninh mạng là một trong những thách thức lớn nhất trong không gian số. Các cuộc tấn công mạng ngày càng tinh vi và có thể gây thiệt hại nghiêm trọng. Các mối đe dọa chính bao gồm: |
+|                                            | - **Tấn công từ chối dịch vụ (DDoS):** Tấn công làm tê liệt hệ thống mạng hoặc website bằng cách gửi lượng truy cập khổng lồ.                                                |
+|                                            | - **Ransomware:** Phần mềm độc hại mã hóa dữ liệu của người dùng và yêu cầu tiền chuộc để giải mã.                                                                             |
+|                                            | - **Xâm nhập trái phép:** Những kẻ tấn công cố gắng xâm nhập vào hệ thống mạng để đánh cắp thông tin nhạy cảm hoặc gây thiệt hại cho hệ thống.                              |
+|                                            | Các biện pháp bảo vệ: mã hóa, xác thực đa yếu tố, tường lửa, phần mềm phát hiện xâm nhập (IDS/IPS).                                                                            |
+| **Tội Phạm Mạng (Cybercrime)**             | Tội phạm mạng là mối đe dọa ngày càng tăng trong không gian số. Các loại tội phạm mạng bao gồm:                                                                                  |
+|                                            | - **Lừa đảo trực tuyến (Phishing):** Kẻ tội phạm giả mạo các trang web hoặc gửi email lừa đảo để lấy cắp thông tin cá nhân.                                                  |
+|                                            | - **Mạo danh (Identity theft):** Kẻ tội phạm sử dụng thông tin cá nhân để thực hiện hành vi gian lận hoặc các hoạt động trái phép.                                            |
+|                                            | - **Tấn công vào hệ thống tài chính trực tuyến:** Các tội phạm mạng tấn công vào ngân hàng điện tử hoặc hệ thống thanh toán trực tuyến để đánh cắp tiền.                    |
+|                                            | Các biện pháp phòng ngừa: điều tra, truy tố và hợp tác quốc tế trong việc phòng chống tội phạm mạng.                                                                          |
+| **Quyền Riêng Tư Trên Không Gian Mạng**    | Bảo vệ quyền riêng tư là một thách thức lớn khi nhiều thông tin cá nhân được lưu trữ và xử lý trên không gian số. Những vấn đề liên quan đến quyền riêng tư bao gồm:           |
+|                                            | - **Lộ lọt thông tin cá nhân:** Dữ liệu cá nhân bị thu thập, bán hoặc bị rò rỉ mà người dùng không biết hoặc không đồng ý.                                                   |
+|                                            | - **Giám sát và theo dõi trực tuyến:** Các công ty và chính phủ sử dụng các công cụ theo dõi hoạt động của người dùng, làm suy yếu quyền tự do cá nhân.                      |
+|                                            | - **Quy định bảo vệ quyền riêng tư:** Các quy định như GDPR được áp dụng, nhưng việc thực thi vẫn gặp khó khăn.                                                                 |
+|                                            | Các biện pháp bảo vệ: Giáo dục người dùng, thực hiện các biện pháp bảo vệ dữ liệu cá nhân và tuân thủ các quy định về bảo mật và quyền riêng tư.                             |
