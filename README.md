@@ -133,3 +133,55 @@
 |                                            | - **Giám sát và theo dõi trực tuyến:** Các công ty và chính phủ sử dụng các công cụ theo dõi hoạt động của người dùng, làm suy yếu quyền tự do cá nhân.                      |
 |                                            | - **Quy định bảo vệ quyền riêng tư:** Các quy định như GDPR được áp dụng, nhưng việc thực thi vẫn gặp khó khăn.                                                                 |
 |                                            | Các biện pháp bảo vệ: Giáo dục người dùng, thực hiện các biện pháp bảo vệ dữ liệu cá nhân và tuân thủ các quy định về bảo mật và quyền riêng tư.                             |
+
+## Đạo đức máy tính
+
+| **Vấn Đề**                                | **Mô Tả**                                                                                                                                                                                |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mục Đích Của Việc Học Đạo Đức Máy Tính** | - **Nâng cao nhận thức về trách nhiệm:** Giúp học viên nhận thức được tầm quan trọng của việc sử dụng công nghệ một cách đạo đức và có trách nhiệm.                                         |
+|                                         | - **Đảm bảo tính bảo mật và quyền riêng tư:** Học viên sẽ hiểu được cách bảo vệ dữ liệu cá nhân và tránh vi phạm quyền riêng tư trong môi trường số.                                           |
+|                                         | - **Ứng dụng công nghệ an toàn:** Học đạo đức máy tính giúp người sử dụng và chuyên gia hiểu cách phát triển và triển khai các hệ thống máy tính an toàn và bảo mật.                     |
+|                                         | - **Khắc phục các vấn đề đạo đức trong công nghệ:** Việc học giúp phát hiện và giải quyết các vấn đề đạo đức có thể phát sinh từ công nghệ, như phân biệt đối xử, bảo mật kém.         |
+| **Các Khía Cạnh Của Đạo Đức Máy Tính**  | - **Quyền riêng tư và bảo mật:** Đảm bảo rằng dữ liệu cá nhân và thông tin người dùng được bảo vệ và không bị xâm phạm.                                                                   |
+|                                         | - **Tính minh bạch và công bằng:** Các hệ thống và thuật toán cần phải rõ ràng, dễ hiểu và công bằng, không phân biệt đối xử.                                                             |
+|                                         | - **Trách nhiệm nghề nghiệp:** Các chuyên gia công nghệ cần có trách nhiệm khi phát triển phần mềm và hệ thống, đảm bảo chúng không gây hại cho người dùng hoặc xã hội.                   |
+|                                         | - **Tác động xã hội của công nghệ:** Đạo đức máy tính cũng liên quan đến việc hiểu rõ những tác động xã hội và kinh tế từ sự phát triển của công nghệ, bao gồm mất việc làm, cô lập xã hội.|
+| **Đạo Đức Cho Người Sử Dụng Máy Tính**  | - **Tôn trọng quyền lợi người khác:** Người sử dụng máy tính cần tuân thủ các nguyên tắc tôn trọng quyền riêng tư và không xâm phạm dữ liệu của người khác.                                 |
+|                                         | - **Tránh lạm dụng công nghệ:** Người dùng không nên sử dụng máy tính để thực hiện hành vi phi pháp, như gian lận trực tuyến, tấn công mạng hay lan truyền thông tin sai lệch.             |
+|                                         | - **Bảo vệ dữ liệu cá nhân:** Người sử dụng cần có ý thức bảo vệ thông tin cá nhân, không chia sẻ thông tin nhạy cảm mà không có sự cho phép.                                               |
+|                                         | - **Phát triển thói quen sử dụng công nghệ có trách nhiệm:** Người sử dụng máy tính cần nâng cao nhận thức về đạo đức khi tham gia các nền tảng trực tuyến và hoạt động trên mạng.         |
+| **Đạo Đức Nghề Nghiệp Với Chuyên Gia Máy Tính** | - **Trách nhiệm phát triển phần mềm an toàn:** Chuyên gia máy tính phải đảm bảo các phần mềm và ứng dụng không có lỗi bảo mật và không gây rủi ro cho người dùng.                     |
+|                                         | - **Tuân thủ quy tắc đạo đức nghề nghiệp:** Các chuyên gia công nghệ cần tuân thủ các quy định đạo đức, làm việc trung thực, minh bạch và bảo vệ quyền lợi của người sử dụng.               |
+|                                         | - **Hỗ trợ công bằng trong công việc:** Các chuyên gia máy tính cần tránh phân biệt đối xử trong công việc, giúp đỡ và tạo cơ hội công bằng cho tất cả mọi người.                         |
+|                                         | - **Đảm bảo bảo mật thông tin:** Chuyên gia cần có trách nhiệm trong việc bảo vệ thông tin nhạy cảm và dữ liệu cá nhân của người sử dụng, đảm bảo không bị lộ lọt hoặc lạm dụng.        |
+
+# Wordpress / Google Site và ứng dụng
+
+## WordPress - Giới thiệu tổng quan
+
+**WordPress** là một hệ quản trị nội dung (CMS - Content Management System) mã nguồn mở phổ biến nhất trên thế giới, giúp người dùng dễ dàng tạo và quản lý các trang web, blog, và ứng dụng trực tuyến mà không cần phải có kỹ năng lập trình chuyên sâu.
+
+## 1. Lịch Sử Phát Triển
+- **Ra đời:** WordPress được Matt Mullenweg và Mike Little phát triển vào năm 2003, dựa trên phần mềm bBlogs của b2/cafelog. Mục tiêu của họ là tạo ra một công cụ dễ sử dụng, có tính mở và dễ dàng mở rộng.
+- **Cộng đồng phát triển:** WordPress là phần mềm mã nguồn mở, có cộng đồng lớn đóng góp vào việc phát triển, cải tiến và bảo trì.
+
+## 2. WordPress.com và WordPress.org
+| **Tính năng**                | **WordPress.org**                                                    | **WordPress.com**                                                  |
+|-----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Cài đặt phần mềm**         | Cần cài đặt và quản lý trên máy chủ riêng của người dùng.            | Đã được cài đặt sẵn và lưu trữ bởi Automattic.                    |
+| **Quyền kiểm soát**          | Người dùng có toàn quyền kiểm soát và tùy chỉnh trang web.           | Hạn chế quyền kiểm soát, chỉ có thể tùy chỉnh giao diện và một số tính năng nhất định. |
+| **Quản lý Hosting**          | Người dùng phải tự quản lý hosting và bảo mật.                        | Hosting được quản lý bởi Automattic.                               |
+| **Tùy chỉnh giao diện**      | Cho phép cài đặt theme và plugin tùy chỉnh.                          | Hạn chế tùy chỉnh giao diện (chỉ cho phép tùy chỉnh trên gói trả phí). |
+| **Tính năng nâng cao**       | Có thể cài đặt các plugin và các tính năng nâng cao.                | Các tính năng nâng cao chỉ có ở các gói dịch vụ cao cấp.            |
+| **Chi phí**                  | Miễn phí, nhưng người dùng phải trả phí hosting và tên miền.         | Miễn phí với hạn chế, trả phí cho các gói dịch vụ cao cấp.         |
+
+## 3. Ứng Dụng của WordPress
+- **Trang cá nhân, blog:** WordPress là công cụ lý tưởng để tạo blog cá nhân hoặc trang web chia sẻ thông tin, kiến thức.
+- **Trang web doanh nghiệp:** Với các tính năng linh hoạt, WordPress có thể được sử dụng để xây dựng các trang web doanh nghiệp, với chức năng liên hệ, thông tin sản phẩm, dịch vụ, và thông tin công ty.
+- **Thương mại điện tử (eCommerce):** Các plugin như WooCommerce cho phép người dùng xây dựng cửa hàng trực tuyến hoàn chỉnh với các tính năng thanh toán, quản lý đơn hàng và sản phẩm.
+- **Trang tin tức, tạp chí:** Các nhà phát triển có thể sử dụng WordPress để tạo các trang tin tức, tạp chí với khả năng quản lý bài viết, hình ảnh, video, và các bài viết phức tạp.
+- **Trang web giáo dục, diễn đàn:** WordPress cũng có thể được sử dụng cho các nền tảng học trực tuyến hoặc diễn đàn thảo luận nhờ vào các plugin như LearnDash, BuddyPress.
+
+## 4. Kết Luận
+WordPress là một công cụ tuyệt vời cho người dùng muốn xây dựng và quản lý trang web mà không cần kỹ năng lập trình. Với cộng đồng lớn và khả năng mở rộng không giới hạn, WordPress là lựa chọn phổ biến cho cả người mới bắt đầu và các nhà phát triển web chuyên nghiệp.
+
